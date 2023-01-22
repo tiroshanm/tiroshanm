@@ -1,4 +1,4 @@
-# 🍄  Tiroshan Madushanka; @tiroshanm
+![header](https://capsule-render.vercel.app/api?type=rect&height=120&text=Tiroshan%20Madushanka&fontAlign=57&stroke=F89601&&color=6E6E6E&fontColor=F89601)
 
 **`Software Engineer |Machine Learning Researcher | Teacher | Blogger`**
 
@@ -55,6 +55,5 @@ src="https://img.shields.io/twitter/follow/tiroshanm?logo=twitter&style=for-the-
 <!-- ![Tiroshan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiroshanm&theme=gruvbox&line_height=40&hide=css) -->
 ![Forrest's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tiroshanm&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 
 
